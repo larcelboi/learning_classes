@@ -1,0 +1,32 @@
+{
+    "larcel": {
+        "py/object": "classes.joueuer.Joueur",
+        "nom": "larcel",
+        "age": 22,
+        "liste_carte": [
+            "Coeur 3",
+            "Carreau 4",
+            "Trefle Queen",
+            "Pique 9",
+            "Carreau King",
+            [
+                "Coeur 10"
+            ],
+            "Coeur 1"
+        ],
+        "debut_carte_partie": 2
+    },
+    "pharell": {
+        "py/object": "classes.joueuer.Joueur",
+        "nom": "pharell",
+        "age": 22,
+        "liste_carte": [
+            "Carreau 9",
+            "Coeur 4",
+            "Trefle 3",
+            "Trefle Jack",
+            "Pique 3"
+        ],
+        "debut_carte_partie": 2
+    }
+}
