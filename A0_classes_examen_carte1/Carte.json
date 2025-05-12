@@ -1,0 +1,39 @@
+{
+    "py/object": "classes.Carte.Carte_jeux",
+    "tt_liste_carte": [
+        "pique 1",
+        "pique 6",
+        "pique 7",
+        "pique 8",
+        "pique 9",
+        "pique 12",
+        "coeur 2",
+        "coeur 3",
+        "coeur 7",
+        "coeur 8",
+        "coeur 9",
+        "coeur 10",
+        "coeur 11",
+        "coeur 13",
+        "carreau 3",
+        "carreau 4",
+        "carreau 5",
+        "carreau 7",
+        "carreau 12",
+        "carreau 13",
+        "trefle 1",
+        "trefle 6",
+        "trefle 7",
+        "trefle 10",
+        "trefle 11",
+        "trefle 12",
+        "trefle 13"
+    ],
+    "lst_carte_supprimer": [
+        "coeur 1",
+        "pique 3",
+        "carreau 10",
+        "carreau 8",
+        "coeur 4"
+    ]
+}

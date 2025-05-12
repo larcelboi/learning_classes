@@ -1,0 +1,51 @@
+{
+    "marc": {
+        "py/object": "classes.Un_joueur.Joueur",
+        "_nom": "marc",
+        "_age": 12,
+        "_bio": "asdas",
+        "meilleur_main": null,
+        "liste_carte": [
+            "carreau 9",
+            "coeur 4",
+            "carreau 8",
+            "coeur 1",
+            "pique 3",
+            "carreau 2",
+            "carreau 10",
+            "trefle 9",
+            "carreau 6",
+            "pique 10",
+            "trefle 4"
+        ]
+    },
+    "marcmarc": {
+        "py/object": "classes.Un_joueur.Joueur",
+        "_nom": "marcmarc",
+        "_age": 12,
+        "_bio": "faa",
+        "meilleur_main": null,
+        "liste_carte": [
+            "pique 4",
+            "carreau 11",
+            "pique 13",
+            "trefle 8",
+            "carreau 1",
+            "trefle 5"
+        ]
+    },
+    "arise": {
+        "py/object": "classes.Un_joueur.Joueur",
+        "_nom": "arise",
+        "_age": 1,
+        "_bio": "faasd",
+        "meilleur_main": null,
+        "liste_carte": [
+            "coeur 6",
+            "pique 5",
+            "coeur 12",
+            "pique 2",
+            "trefle 3"
+        ]
+    }
+}
