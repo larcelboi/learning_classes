@@ -1,6 +1,6 @@
 from enum import Enum
 
-class chiffre_carte(Enum):
+class Cartes_chiffres(Enum):
     UN = "1"
     DEUX = "2"
     TROIS = "3"

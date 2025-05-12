@@ -1,5 +1,5 @@
 
-# A1_classes_cartes/Personne.py
+# A1_classes_cartes/Un_personne.py
 class Personne:
     def __init__(self, nom, age):
         self.nom = nom

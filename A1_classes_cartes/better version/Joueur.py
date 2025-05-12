@@ -8,7 +8,7 @@ from Carte import Carte_jeux, choisir
 
 
 class Joueur(Personne):
-    """Player class that manages player information and cards"""
+    """Player classes that manages player information and cards"""
 
     dict_joueur = {}
     _fichier_joueurs = "jeux_carte.json"
